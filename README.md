@@ -2,7 +2,7 @@
 
 ## Revisa el proyecto acá: [Ver](https://javierfdb.github.io/)
 
-Detalle: Desafío final unidad 1 - Currículum Vitae
+Detalle: Desafío final unidad 1 - Currículum Vitae / Portafolio
 
 ## Forks:
 
