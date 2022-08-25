@@ -1,8 +1,6 @@
 # Proyecto Desafío Final Unidad I
 
-## Revisa el proyecto acá: 
-
-[Ver](https://github.com/javierfdb/javierfdb.github.io)
+## Revisa el proyecto acá: [Ver](https://javierfdb.github.io/)
 
 Detalle: Desafío final unidad 1 - Currículum Vitae
 
